@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohammed Saeed
-- 👀 I’m interested in Android and Web development
-- 🌱 I’m currently learning Android Studio
-- 💞️ I’m looking to collaborate on Android Studio projects
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on Data Science related projects
 - 📫 How to reach me: My discord user name is M.Saeed#0239
 
 <!---
